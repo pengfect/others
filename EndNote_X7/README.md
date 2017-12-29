@@ -4,7 +4,7 @@
 # 安装EndNote X7  
 
 1.下载压缩包  
-![image](https://github.com/pengfect/others/tree/master/EndNote_X7/endnote/image0011.png)  
+![image](https://github.com/pengfect/others/blob/master/EndNote_X7/endnote/image001.png)  
 
 2.按压缩文件中的“使用更新说明”安装“endnote”  
 ![image](https://github.com/pengfect/others/tree/master/EndNote_X7/endnote/image002.jpg) 
